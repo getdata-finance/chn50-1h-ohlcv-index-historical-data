@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1h` sample updated in sync
 
-> **Sample on GitHub** · `CHN50_1h.csv` (961 rows, `2026-06-26` -> `2026-09-02`, 73.14 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/chn50)** — **46,910** `1h` rows (full `1m`: 2,681,069), **11 timeframes**, `2017-07-17` -> `2026-09-02`.
+> **Sample on GitHub** · `CHN50_1h.csv` (924 rows, `2026-06-29` -> `2026-09-02`, 70.20 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/chn50)** — **46,910** `1h` rows (full `1m`: 2,664,006), **11 timeframes**, `2017-07-17` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,9 +45,9 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | FTSE China A50 · Index | FTSE China A50 · Index |
 | Timeframes | `1h` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 1h rows | 961 | **46,910** |
-| Size | 73.14 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/chn50) |
-| Period | `2026-06-26` -> `2026-09-02` | `2017-07-17` -> `2026-09-02` |
+| 1h rows | 924 | **46,910** |
+| Size | 70.20 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/chn50) |
+| Period | `2026-06-29` -> `2026-09-02` | `2017-07-17` -> `2026-09-02` |
 | File | `CHN50_1h.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/chn50) |
 | Coverage report | — | [CHN50 coverage](https://getdata.finance/coverage/chn50) |
 | Updates | Weekly (Saturday, 8am UTC+0) — GitHub sample | Weekly (Saturday, 8am UTC+0) — all timeframes |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`CHN50_1h.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-26T02:00:00+00:00 | 15571.03 | 15580.04 | 15242.02 | 15274.04 | 35609 |
-| 2026-06-26T03:00:00+00:00 | 15274.04 | 15316.03 | 15233.52 | 15307.54 | 23356 |
-| 2026-06-26T04:00:00+00:00 | 15307.54 | 15308.53 | 15247.02 | 15254.54 | 1988 |
-| 2026-06-26T05:00:00+00:00 | 15254.54 | 15435.54 | 15244.03 | 15396.03 | 32722 |
-| 2026-06-26T06:00:00+00:00 | 15396.03 | 15405.03 | 15293.03 | 15322.04 | 23932 |
+| 2026-06-29T19:00:00+00:00 | 15478 | 15480.49 | 15468 | 15477 | 670.87252 |
+| 2026-06-29T20:00:00+00:00 | 15477 | 15481.5 | 15473.49 | 15475.51 | 150.26662 |
+| 2026-06-30T01:00:00+00:00 | 15475.51 | 15497.93 | 15361.93 | 15462.92 | 30687.8248 |
+| 2026-06-30T02:00:00+00:00 | 15462.92 | 15517.92 | 15406.41 | 15474.92 | 26479 |
+| 2026-06-30T03:00:00+00:00 | 15474.92 | 15616.43 | 15473.43 | 15580.93 | 12416 |
 
 **Last rows**
 
